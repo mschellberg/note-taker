@@ -18,3 +18,7 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+## Website
+[Note Taker](https://week-11-note-taker-express.herokuapp.com/notes)
+![note-taker-screenshot](https://user-images.githubusercontent.com/71852138/109439521-a6144d80-79fc-11eb-8067-ec46d297df70.png)
